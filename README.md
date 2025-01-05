@@ -5,11 +5,11 @@ https://github.com/user-attachments/assets/b65e68b7-54ee-4eab-8138-49b3d71b0589
 A single player, 2D turn-based Pokémon fighting game. Each turn challenges the player to participate in a bubble-popping mini-game. The points earned by popping bubbles are then converted into damage, which is dealt to the enemies in the following round. As the player progresses through levels, they face an increasing number of enemies, each more difficult than the last, providing a constantly escalating challenge.
 
 ## Mechanics
- Key          | Action                            |
-|:------------|:----------------------------------|
-| **Mouse**   | Move mouse to aim                 |
-| <img src="images/mouse-click.png" width="40"/>     | Click to freeze & unfreeze aim    |
-| <img src="images/icons/fire-icon.png" width="60"/> | Press [FIRE] to release ball      |
+ Command                                              | Action                            |
+|:---------------------------------------------------:|:----------------------------------|
+| <img src="images/mouse.png" width="50"/>            | Move mouse to aim                 |
+| <img src="images/mouse-click.png" width="50"/>      | Click to freeze & unfreeze aim    |
+| <img src="images/icons/fire-icon.png" width="60"/>  | Press [FIRE] to release ball      |
 
 
 
