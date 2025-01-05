@@ -9,7 +9,7 @@ A single player, 2D turn-based Pokémon fighting game. Each turn challenges the 
 |:------------|:----------------------------------|
 | **Mouse**   | Move mouse to aim                 |
 | **Mouse**   | Click to freeze & unfreeze aim    |
-| <img src="images/icons/fire-icon.png" width="50"/> | Press [FIRE] to release ball      |
+| <img src="images/icons/fire-icon.png" width="60"/> | Press [FIRE] to release ball      |
 
 
 
@@ -27,7 +27,7 @@ Before running the game, ensure your system meets the following requirements:
 
 ### System Requirements
 - **Operating System:** Windows, macOS, or Linux
-- **Python Version:** Java 8 or higher
+- **Java Version:** Java 8 or higher
 
 ### Step-by-Step Installation
 
