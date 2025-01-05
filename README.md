@@ -15,7 +15,7 @@ A single player, 2D turn-based Pokémon fighting game. Each turn challenges the 
 
 ## Orb Types
  Type          | Image                                                | Description        |
-|:-------------|:-----------------------------------------------------|:-------------------|
+|:-------------|:----------------------------------------------------:|:-------------------|
 | **Normal**   | <img src="images/orbs/normal-orb.png" width="30"/>   | +2 damage points   |
 | **Bomb**     | <img src="images/orbs/bomb-orb.png" width="30"/>     | +50 damage points  |
 | **Health**   | <img src="images/orbs/health-orb.png" width="30"/>   | +10 health points  |
