@@ -9,7 +9,9 @@ A single player, 2D turn-based Pokémon fighting game. Each turn challenges the 
 |:------------|:----------------------------------|
 | **Mouse**   | Move mouse to aim                 |
 | **Mouse**   | Click to freeze & unfreeze aim    |
-| **Fire**    | Press [FIRE] to release ball      |
+| ![Fire](https://github.com/user-attachments/assets/0b9dffcb-6ffe-4fe1-87ec-5e8801e24da2) | Press [FIRE] to release ball      |
+
+
 
 ## Orb Types
  Type          | Description           |
