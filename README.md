@@ -31,7 +31,7 @@ Before running the game, ensure your system meets the following requirements:
 
 1. **Install Java**
    
-   Download and install Java 8 or higher from the [official Python website](https://www.oracle.com/java/technologies/downloads/)
+   Download and install Java 8 or higher from the [official Java website](https://www.oracle.com/java/technologies/downloads/)
    
 2. **Clone the Repository**
    
