@@ -12,7 +12,7 @@ A single player, 2D turn-based Pokémon fighting game. Each turn challenges the 
 | **Fire**    | Press [FIRE] to release ball      |
 
 ## Orb Types
- Key           | Action                |
+ Type          | Description           |
 |:-------------|:----------------------|
 | **Normal**   | +2 damage points      |
 | **Bomb**     | +50 damage points     |
