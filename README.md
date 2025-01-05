@@ -14,12 +14,12 @@ A single player, 2D turn-based Pokémon fighting game. Each turn challenges the 
 
 
 ## Orb Types
- Type          | Description           |
-|:-------------|:----------------------|
-| **Normal**   | +2 damage points      |
-| **Bomb**     | +50 damage points     |
-| **Health**   | +10 health points     |
-| **Restore**  | Renews all orbs       | 
+ Type          | Image                                                | Description        |
+|:-------------|:-----------------------------------------------------|:-------------------|
+| **Normal**   | <img src="images/orbs/normal-orb.png" width="50"/>   | +2 damage points   |
+| **Bomb**     | <img src="images/orbs/bomb-orb.png" width="50"/>     | +50 damage points  |
+| **Health**   | <img src="images/orbs/health-orb.png" width="50"/>   | +10 health points  |
+| **Restore**  | <img src="images/orbs/restore-orb.png" width="50"/>  | Renews all orbs    |
 
 ## Installation Requirements
 
