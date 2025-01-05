@@ -8,7 +8,7 @@ A single player, 2D turn-based Pokémon fighting game. Each turn challenges the 
  Key          | Action                            |
 |:------------|:----------------------------------|
 | **Mouse**   | Move mouse to aim                 |
-| <img src="images/mouse-click.png" width="60"/>     | Click to freeze & unfreeze aim    |
+| <img src="images/mouse-click.png" width="40"/>     | Click to freeze & unfreeze aim    |
 | <img src="images/icons/fire-icon.png" width="60"/> | Press [FIRE] to release ball      |
 
 
